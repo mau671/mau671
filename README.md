@@ -18,7 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
 
-###
+## Contact me
 
 <div align="left">
   <a href="https://discordapp.com/users/mau671" target="_blank">
